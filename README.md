@@ -285,9 +285,7 @@ To test the endpoints, you can use Postman or any other API testing tool.
      "bridgeProvider": "yBridge",
      "receiver": "0x9cEEEbdF49cF5DEa891C9D74f8ea03af2aCf284F",
      "srcBridgeTokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-     "dstBridgeTokenAddress": "0x2170Ed
-
-0880ac9A755fd29B2688956BD959F933F8",
+     "dstBridgeTokenAddress": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
      "dstSwapProvider": "OKX DEX"
    }
    ```
